@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add NYC code coverage report
+      hash: 08a4594812e31b3f9382894dd1f6d5bcd53fcff8
+      body: >
+        After running tests, a code coverage report can be found at
+        ./coverage/lcov-report/index.html
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Lucian <lucian.buzzo@gmail.com>
+        signed-off-by: Lucian <lucian.buzzo@gmail.com>
+      author: Lucian
+  version: 11.8.2
+  date: 2019-08-16T08:11:43.920Z
+- commits:
     - subject: Fix incorrect arguments passed to oclif bootstrap function
       hash: 730c09989d401b2a14d1b6ceb8942161c330f52d
       body: |
