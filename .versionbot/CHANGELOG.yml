@@ -1,4 +1,16 @@
 - commits:
+    - subject: 'Deploy scripts: edit GitHub release descriptions given semver ranges'
+      hash: abd9b4773288aee24e116da60f2b6693857613bc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Paulo Castro <paulo@balena.io>
+        signed-off-by: Paulo Castro <paulo@balena.io>
+      author: Paulo Castro
+  version: 11.9.1
+  date: 2019-08-27T03:02:07.742Z
+- commits:
     - subject: >-
         Enable emulated builds on remote devices running a different OS as the
         CLI
