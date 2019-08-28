@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add missing oclif-based commands to mixpanel tracking
+      hash: 27aefc7954515c447e7aa23255b81d09a03e8cfb
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Paulo Castro <paulo@balena.io>
+        signed-off-by: Paulo Castro <paulo@balena.io>
+      author: Paulo Castro
+  version: 11.9.1
+  date: 2019-08-28T15:00:37.742Z
+- commits:
     - subject: >-
         Enable emulated builds on remote devices running a different OS as the
         CLI
